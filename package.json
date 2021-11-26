@@ -1,0 +1,22 @@
+{
+  "name": "glu-mapgpsposition",
+  "version": "1.0.0",
+  "description": "Show a map with a marker of the current position. Using HTML Geolocation API and OpenStreetMap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martijnkunstman/GLU-mapGPSPosition.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martijnkunstman/GLU-mapGPSPosition/issues"
+  },
+  "homepage": "https://github.com/martijnkunstman/GLU-mapGPSPosition#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
